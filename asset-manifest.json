@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reacttask/static/css/main.b42ca77e.css",
+    "main.js": "/reacttask/static/js/main.d2aa8b7b.js",
+    "index.html": "/reacttask/index.html",
+    "main.b42ca77e.css.map": "/reacttask/static/css/main.b42ca77e.css.map",
+    "main.d2aa8b7b.js.map": "/reacttask/static/js/main.d2aa8b7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b42ca77e.css",
+    "static/js/main.d2aa8b7b.js"
+  ]
+}
